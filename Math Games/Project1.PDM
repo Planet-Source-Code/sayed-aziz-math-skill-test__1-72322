@@ -1,0 +1,355 @@
+[Root]
+Most Recent Package=Math Skill
+
+
+[Package|Math Skill|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Package
+
+[Package|Math Skill|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Math Skill|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Math Skill|Files Found]
+A00.bmp=C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A00.bmp
+Child.jpg=C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child.jpg
+
+[Package|Math Skill|Files Released]
+
+[Package|Math Skill|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+C:\WINDOWS\system32\wmp.dll=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Math Skill|Out-of-Date Dependency Information]
+
+[Package|Math Skill|Files Added]
+child.jpg=
+child1.jpg=
+claps.wav=
+div.bmp=
+move.wav=
+multiply.bmp=
+splash.bmp=
+splash1.bmp=
+l00.bmp=
+l01.bmp=
+l02.bmp=
+l03.bmp=
+p00.bmp=
+p01.bmp=
+p02.bmp=
+p03.bmp=
+p04.bmp=
+p05.bmp=
+p06.bmp=
+p07.bmp=
+p08.bmp=
+p09.bmp=
+p010.bmp=
+p011.bmp=
+p012.bmp=
+p013.bmp=
+p014.bmp=
+p015.bmp=
+score.mdb=
+level.bmp=
+claps1.wav=
+a00.bmp=
+a01.bmp=
+b00.bmp=
+b01.bmp=
+b02.bmp=
+b03.bmp=
+b04.bmp=
+child2.jpg=
+level1.bmp=
+
+[Package|Math Skill|Files Removed]
+c:\windows\system32\msadodc.ocx=
+
+[Package|Math Skill|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=No
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Math Skill.exe=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child.jpg=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child1.jpg=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Claps.wav=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Div.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Move.wav=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\MultiPly.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Splash.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Splash1.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L00.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L01.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L02.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L03.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P00.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P01.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P02.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P03.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P04.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P05.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P06.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P07.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P08.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P09.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P010.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P011.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P012.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P013.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P014.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P015.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\Score.mdb=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Level.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Claps1.wav=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A00.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A01.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B00.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B01.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B02.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B03.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B04.bmp=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child2.jpg=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Level1.bmp=Yes
+
+[Package|Math Skill|Configure Registry Files]
+Applicable=No
+
+[Package|Math Skill|Configure Remote Servers]
+Applicable=No
+
+[Package|Math Skill|Install Locations]
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Math Skill.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child.jpg=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child1.jpg=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Claps.wav=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Div.bmp=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\MOVE.WAV=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\MultiPly.bmp=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Splash.bmp=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Splash1.bmp=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L02.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L03.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P02.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P03.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P04.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P05.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P06.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P07.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P08.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P09.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P010.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P011.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P012.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P013.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P014.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P015.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\Score.mdb=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Math Skill.exe=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Child.jpg=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Child1.jpg=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Claps.wav=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Div.bmp=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\MOVE.WAV=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\MultiPly.bmp=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Splash.bmp=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Splash1.bmp=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L02.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L03.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P02.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P03.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P04.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P05.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P06.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P07.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P08.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P09.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P010.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P011.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P012.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P013.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P014.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P015.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\Score.mdb=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Level.bmp=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Claps1.wav=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B02.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B03.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B04.bmp=$(AppPath)\Animation
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Score.mdb=$(AppPath)\Animation
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Level.bmp=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Claps1.wav=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\A00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\A01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B00.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B01.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B02.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B03.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B04.bmp=$(AppPath)\Animation
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Child2.jpg=$(AppPath)
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Level1.bmp=$(AppPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child2.jpg=$(AppPath)
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Level1.bmp=$(AppPath)
+
+[Package|Math Skill|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Math Skill.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child.jpg=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child1.jpg=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Claps.wav=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Div.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\MOVE.WAV=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\MultiPly.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Splash.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Splash1.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L00.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L01.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L02.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\L03.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P00.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P01.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P02.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P03.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P04.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P05.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P06.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P07.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P08.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P09.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P010.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P011.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P012.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P013.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P014.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\P015.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\Score.mdb=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Math Skill.exe=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Child.jpg=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Child1.jpg=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Claps.wav=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Div.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\MOVE.WAV=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\MultiPly.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Splash.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Splash1.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L00.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L01.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L02.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\L03.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P00.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P01.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P02.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P03.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P04.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P05.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P06.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P07.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P08.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P09.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P010.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P011.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P012.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P013.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P014.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\P015.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\Score.mdb=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Level.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Claps1.wav=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A00.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\A01.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B00.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B01.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B02.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B03.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Animation\B04.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Score.mdb=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Level.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Claps1.wav=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\A00.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\A01.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B00.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B01.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B02.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B03.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Animation\B04.bmp=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Child2.jpg=No
+C:\Documents and Settings\Aziz.PRESS\Desktop\Math Games\Level1.bmp=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Child2.jpg=No
+C:\Documents and Settings\S.Aziz\Desktop\Math Games\Level1.bmp=No
+
+[Package|Math Skill|Distribution]
+Type=single
+Size=
+Title=Math Skill Test
+
+[Package|Math Skill|IconGroups]
+Group0=Math Skill Test
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Math Skill|Math Skill Test]
+Icon1="Math Skill.exe"
+Title1=Math Skill Test
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Math Skill|Package]
+PackageFolder=C:\Package
+ProjectFolder=C:\Documents and Settings\S.Aziz\Desktop\Math Games
+ServerSideCab=
+File1=C:\Package\setup.exe
+File2=C:\Package\Setup.Lst
+File3=C:\Package\Math Skill.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
